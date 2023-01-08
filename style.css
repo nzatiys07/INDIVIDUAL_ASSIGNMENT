@@ -1,0 +1,79 @@
+*,
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+section#nav-bar{
+	background-color: lightgrey;
+	padding: 2px;
+}
+
+div#.nav{
+	display: inline-flex;
+	color: maroon;
+}
+
+.nav-one{
+	margin-left: 30px;
+}
+
+h1{
+	margin-bottom: 20px;
+	font-size: 30px;
+	color: purple;
+}
+
+.list ul{
+	display: flex;
+	list-style: none;
+	margin-left: 400px;
+	padding: 10px;
+	font-size: 20px;
+
+}
+
+.about{
+	margin-left: 50px;
+}
+.family{
+	margin-left: 50px;
+}
+.education{
+	margin-left: 50px;
+}
+.experience{
+	margin-left: 50px;
+}
+.contact{
+	margin-left: 50px;
+}
+
+a{
+	text-decoration: none;
+	color: darkolivegreen;
+}
+
+.button{
+	margin-left: 20px;
+	font-size: 20px;
+	background-color: black;
+	border-radius: 70px;
+	padding: 30px;
+	height: 0px;
+	padding-top: 10px;
+	margin-top: 20px;
+
+}
+
+.btn:hover{
+	background-color: lightpink;
+	border: 2px solid darkblue;
+	color:  darkred;
+	transition: 1s all;
+	border-radius: 30px;
+	padding: 10px;
+
+
+}
